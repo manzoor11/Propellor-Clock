@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"Prop_Clk.obj" 
+TO "Prop_Clk" 
+RAMSIZE(256) 
